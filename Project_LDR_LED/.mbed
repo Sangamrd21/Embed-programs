@@ -1,0 +1,5 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/Project_LDR_LED]=066DFF485370514867081321
+DEVICE_TYPE[/home/studio/workspace/Project_LDR_LED]=connected
+TARGET=NUCLEO_F446RE
+TARGET_CODE=0777
